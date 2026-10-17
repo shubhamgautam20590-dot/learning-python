@@ -11,15 +11,14 @@
 
 # //q2
 
-class Solution(object):
-    def sumCounts(self, nums):
-        for i in nums:
-            c=0
-            for j in nums:
-                if J<i:
-                    c+=1
-            self.append(c)
-        return self           
-obj =Solution
-Solution.sumCounts(1,2)
+# class Solution(object):
+#     def sumCounts(self, nums):
+#         for i in nums:
+#             c=0
+#             for j in nums:
+#                 if J<i:
+#                     c+=1
+#             self.append(c)
+#         return self           
+
         
